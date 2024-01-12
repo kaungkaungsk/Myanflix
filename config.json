@@ -6,8 +6,8 @@
   "movie": "",
   "animation": "",
   "series": "",
-  "banner_ad": "",
-  "ad_url": "",
+  "banner_ad": null,
+  "ad_url": null,
   "showBanner": false,
   "showInterstitial": false,
   "developer_contact": ""
