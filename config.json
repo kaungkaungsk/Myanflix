@@ -2,7 +2,7 @@
   "app_name": "Myanflix",
   "app_icon": "",
   "version": 1.0,
-  "slider": "",
+  "slider": "https://raw.githubusercontent.com/kaungkaungsk/Myanflix/main/slider.json",
   "movie": "",
   "animation": "",
   "series": "",
